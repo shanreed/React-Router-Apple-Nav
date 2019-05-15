@@ -1,0 +1,26 @@
+.nav-menu {
+    color : white;
+    font-size: 1.4rem;
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    /* margin: auto 400px auto 400px; */
+}
+.link {
+    color: white;
+    text-decoration: none;
+} 
+
+.fa-apple{
+    font-size: 2rem;
+    margin-top: -5px;
+    margin-left: 392px;
+}
+.fa-search {
+    /* margin-right: -5px; */
+}
+.fa-shopping-bag {
+    margin-right: 375px;
+}
